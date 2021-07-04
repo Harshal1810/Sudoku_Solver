@@ -1,4 +1,5 @@
 //Harshal Khamkar
+//Backtracking algorithm for sudoku solver
 #include<bits/stdc++.h>
 using namespace std;
 
